@@ -1,0 +1,14 @@
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\bin\Debug\net10.0\WroteAndFound.exe
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\bin\Debug\net10.0\WroteAndFound.deps.json
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\bin\Debug\net10.0\WroteAndFound.runtimeconfig.json
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\bin\Debug\net10.0\WroteAndFound.dll
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\bin\Debug\net10.0\WroteAndFound.pdb
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.AssemblyInfoInputs.cache
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.AssemblyInfo.cs
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.csproj.CoreCompileInputs.cache
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.dll
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\refint\WroteAndFound.dll
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.pdb
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\WroteAndFound.genruntimeconfig.cache
+C:\Users\ianla\Documents\WroteAndFound_OrientacionObjetos-mainaaa\WroteAndFound\obj\Debug\net10.0\ref\WroteAndFound.dll
